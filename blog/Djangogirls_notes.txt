@@ -3,3 +3,10 @@
 Username: sriram
 Email address: sriram.rajagopal@yandex.com
 Password: my1stdjangoproject
+
+
+models.py -> views.py -> templates
+
+models.py: Python file where model object is defined. 
+views.py: Python file where django checks to resolve HTTP requests by finding the right view for a given request
+templates: Folder where HTML files are stored. 
